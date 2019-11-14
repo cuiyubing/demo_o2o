@@ -5,5 +5,5 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/cuiyubing/demo_o2o
           search-paths: config-repo
